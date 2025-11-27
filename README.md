@@ -65,5 +65,6 @@ I'm currently exploring cloud engineering, DevOps practices, virtualization, net
 <img src="https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33" target="_blank" />
 <img src="https://img.shields.io/badge/portainer-%2313BEF9.svg?style=for-the-badge&logo=portainer&logoColor=white" target="_blank" />
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" target="_blank" />
+<img src="https://img.shields.io/badge/n8n-Workflows-orange?style=for-the-badge&logo=n8n" target="_blank" />
 </p>
 
