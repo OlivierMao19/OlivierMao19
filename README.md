@@ -54,13 +54,13 @@ I'm currently exploring cloud engineering, DevOps practices, virtualization, net
   <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" target="_blank" />
 </p>
 
-### 🚀 Automation & CI/CD
+### 🚀 Automation & CI/CD 🚀
 <p align="left">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" target="_blank"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" target="_blank" />
 </p>
 
-### 🧪 Other Tools
+### 🧪 Other Tools 🧪
 <p align="left">
 <img src="https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33" target="_blank" />
 <img src="https://img.shields.io/badge/portainer-%2313BEF9.svg?style=for-the-badge&logo=portainer&logoColor=white" target="_blank" />
